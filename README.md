@@ -2,4 +2,4 @@
 Mi primer repositorio de Github
 
 
-![Logo de McGraw Hill y Octocat] (imagenes/pingu.jpg)
+![Logo de McGraw Hill y Octocat](imagenes/pingu.jpg)
